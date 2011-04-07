@@ -1,0 +1,5 @@
+<?php
+
+$s_plugin_Piwik_description = "Permet de relier Mantis à un site de statistiques Piwik";
+$s_plugin_Piwik_piwikurl = 'URL de Piwik (sans http://)';
+$s_plugin_Piwik_idSite = 'Id Site de Mantis dans Piwik';
