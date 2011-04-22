@@ -12,7 +12,7 @@ Il ne vous reste plus qu'a le configurer en cliquant sur "Piwik" (toujours sur l
 ==== How to install ==== 
 
 Uncompress archine into the plugins folder of your mantis installation. 
-The folder's name have to be Piwik.
+The folder's name have to be Piwik and have the folders lang & pages and Piwik.php file a the root of the folder.
 Remember to set the correct permissions on files.
 Log-in on Mantis as global administrator and click on manage in the menu.
 Click on manage plugin. Piwik plugin is at the bottom of the page. Click on install.

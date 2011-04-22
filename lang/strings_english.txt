@@ -1,5 +1,0 @@
-<?php
-
-$s_plugin_Piwik_description = "Link Mantis with a Piwik website";
-$s_plugin_Piwik_piwikurl = 'Piwik URL  (without http://)';
-$s_plugin_Piwik_idSite = 'SiteId of Mantis in Piwik';
