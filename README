@@ -1,0 +1,19 @@
+==== Comment installer : ====
+
+Décompressez l'archive dans le dossier plugins de votre installation Mantis.
+Le dossier doit se nommer Piwik (renommez le si nécéssaire) et contenir à sa racine les dossiers lang, pages et le fichier Piwik.php
+Pensez à affecter les bons droits sur les fichiers (755 normalement)
+Connectez vous sur Mantis en tant qu'administrateur global, et allez dans l'administration.
+Allez dans Plugiciels, Le plugin Piwik doit apparaitre, cliquez sur installer.
+Il ne vous reste plus qu'a le configurer en cliquant sur "Piwik" (toujours sur la page Plugiciels).
+
+
+
+==== How to install ==== 
+
+Uncompress archine into the plugins folder of your mantis installation. 
+The folder's name have to be Piwik.
+Remember to set the correct permissions on files.
+Log-in on Mantis as global administrator and click on manage in the menu.
+Click on manage plugin. Piwik plugin is at the bottom of the page. Click on install.
+Now, you have just to config it by clicking on "Piwik".
