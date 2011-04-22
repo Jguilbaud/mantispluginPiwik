@@ -12,7 +12,7 @@ This plugin is under GNU/GPL license
 Ce plugin Mantis vous permet de lier ce dernier à Piwik afin de bénéficier de statistiques complètes et détaillées sur les visiteurs de votre Mantis.
 
 ==== About =====
-This plugin allow you to have statistics about Mantis into Piwik.
+This plugin allows to integrate automatically the Piwik Javascript code in the Mantis pages
 
 
 
