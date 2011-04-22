@@ -1,3 +1,21 @@
+==== INFOS ====
+Version 1.0
+10 avril 2011
+Par/By Lapinkiller
+http://www.lapinkiller.fr
+Ce plugin est founi sous licence GNU/GPL
+This plugin is under GNU/GPL license
+
+
+
+==== A propos ====
+Ce plugin Mantis vous permet de lier ce dernier à Piwik afin de bénéficier de statistiques complètes et détaillées sur les visiteurs de votre Mantis.
+
+==== About =====
+This plugin allow you to have statistics about Mantis into Piwik.
+
+
+
 ==== Comment installer : ====
 
 Décompressez l'archive dans le dossier plugins de votre installation Mantis.
